@@ -158,7 +158,7 @@ function Index() {
       </section>
 
       {/* SOBRE */}
-      <section id="sobre" className="mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
+      <section id="sobre" className="scroll-mt-24 mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
         <div className="grid gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:gap-20">
           <div>
             <p className="eyebrow">Sobre</p>
@@ -187,7 +187,7 @@ function Index() {
       </section>
 
       {/* ATENDIMENTO */}
-      <section id="atendimento" className="surface-mist border-y border-border/70">
+      <section id="atendimento" className="scroll-mt-24 surface-mist border-y border-border/70">
         <div className="mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
           <div className="max-w-2xl">
             <p className="eyebrow">Atendimento</p>
@@ -220,7 +220,7 @@ function Index() {
       </section>
 
       {/* DIFERENCIAIS */}
-      <section id="diferenciais" className="mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
+      <section id="diferenciais" className="scroll-mt-24 mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
         <div className="max-w-2xl">
           <p className="eyebrow">Diferenciais</p>
           <h2 className="mt-4 text-3xl text-brand-deep sm:text-4xl">
@@ -265,7 +265,7 @@ function Index() {
       </section>
 
       {/* CONTATO */}
-      <section id="contato" className="surface-mist border-t border-border/70">
+      <section id="contato" className="scroll-mt-24 surface-mist border-t border-border/70">
         <div className="mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
           <div className="max-w-2xl">
             <p className="eyebrow">Contato</p>
